@@ -1,0 +1,1 @@
+<% response.sendRedirect("expense-report/list.htm?_r=1"); %>
